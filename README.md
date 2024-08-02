@@ -1,1 +1,1 @@
-# cryto-coinx
+# crypto-coinx
